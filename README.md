@@ -1,4 +1,4 @@
-**PROJECT 8**
+**PROJECT 12**
 
 This project depicts the UI Test Automation project based on BDD and Data-Driven design approach - WAY2 and parallel execution of test cases.
 
